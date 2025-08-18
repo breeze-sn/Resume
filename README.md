@@ -1,6 +1,6 @@
 # Resume
 
-LaTeX-based professional resume template with source files and compiled PDF.
+LaTeX-based resume template with source files and compiled PDF.
 
 ## Files
 - `resume.tex` — LaTeX source code.
